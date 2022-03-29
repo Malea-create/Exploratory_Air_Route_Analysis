@@ -1,0 +1,10 @@
+Hallo Herr Eichin,
+
+im Finals Ordner finden sie drei Unterordner in die jeweils die Python-Datei, den Html-Plot und ein Bild der Visalisierung enthalten.
+Im 4. Ordner finden sie die zugehörigen Daten und Cleaningdatein.
+Damit die Python-Datein funktionieren muss der gesammte Finals Ordner in VSC übernommen werden.
+
+Auserdem ist diesem Ordner noch die textuelle Dokumentation & Erklrung der Plots angehängt 
+
+VG, 
+ Lea Mayer
