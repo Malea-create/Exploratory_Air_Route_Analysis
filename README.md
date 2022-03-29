@@ -20,3 +20,5 @@ as well as the honesty of the data are important)
 - Create exploratory experience through web plots
 
 # Packages
+- Plotly
+- Pandas
