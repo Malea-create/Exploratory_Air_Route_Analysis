@@ -20,5 +20,7 @@ as well as the honesty of the data are important)
 - Create exploratory experience through web plots
 
 # Packages
-- Plotly
+- Plotly (graph_objects and express)
 - Pandas
+- Numpy
+- Math
